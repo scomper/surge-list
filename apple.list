@@ -7,3 +7,11 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
+# Apple News 
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-client.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+# Spotligh
+USER-AGENT,Spotlight*
