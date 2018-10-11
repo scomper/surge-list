@@ -1,4 +1,3 @@
-# Against DNS pollution
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
@@ -13,8 +12,6 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,telegra.ph
@@ -22,3 +19,4 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com

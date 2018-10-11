@@ -15,3 +15,9 @@ DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtu.be
 USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*
+# Prime Video
+USER-AGENT,Prime%20Video*
+USER-AGENT,InstantVideo.US*
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,llnwd.net

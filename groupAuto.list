@@ -1,0 +1,3 @@
+HK01 = http,adc-hk.com,443,username,password, tls=true
+SG02 = http,adc-sg.com,443,username,password, tls=true
+JP01 = http,adc-jp.com,443,username,password, tls=true
