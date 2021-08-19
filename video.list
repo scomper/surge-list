@@ -31,10 +31,13 @@ DOMAIN-SUFFIX,tvb.com
 # Disney+
 USER-AGENT,Disney*
 PROCESS-NAME,com.disney.disneyplus
+DOMAIN-SUFFIX,global.edge.bamgrid.com
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,registerdisney.go.com
+DOMAIN-SUFFIX,disney.com
+DOMAIN-SUFFIX,disneyjunior.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
-DOMAIN,cdn.registerdisney.go.com
