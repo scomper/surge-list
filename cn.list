@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,myqcloud.com
 # Misc
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bootcss.com
