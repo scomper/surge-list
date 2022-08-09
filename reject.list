@@ -3212,6 +3212,8 @@ DOMAIN-SUFFIX,yangniupiju.com
 DOMAIN-SUFFIX,lionettrip.xyz
 DOMAIN-SUFFIX,jingteinv.com
 DOMAIN-SUFFIX,xn--io0a7i.com
+DOMAIN-SUFFIX,loli.io
+DOMAIN-SUFFIX,loli.net
 # URL-REGEX
 URL-REGEX,^https?://.+/videos/other/.+
 URL-REGEX,^https?://.+\.beacon\.qq\.com
