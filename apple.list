@@ -4,7 +4,8 @@ DOMAIN,mvod.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
 # Apple other
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,cdn-apple.com
