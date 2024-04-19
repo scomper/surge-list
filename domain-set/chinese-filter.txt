@@ -2558,7 +2558,6 @@
 .1.i999d.cn
 .100.admin5.com
 .100.pncdn.cn
-.201*.myhard.com
 .2016.bkill.net
 .360safego.com
 .5y9nfpes.52pk.com
