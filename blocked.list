@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ampproject.org
 # Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,googleapis.com
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
