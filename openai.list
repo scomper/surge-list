@@ -22,3 +22,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,groqstatus.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
