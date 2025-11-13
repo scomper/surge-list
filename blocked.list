@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,pscp.tv
@@ -25,12 +27,17 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,githubusercontent.com
 # Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
